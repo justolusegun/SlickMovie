@@ -1,0 +1,25 @@
+body{
+ overflow-x: hidden;
+  
+}
+.search {
+  width: 1006px;
+}
+
+@media(max-width: 857px){
+  .logo1 h2{
+      left: 300px;
+  }
+
+  .text h1{
+    left: 150px;
+    align-items: center;
+    text-align: center;
+}
+.search {
+  width: 706px;
+}
+
+  
+}
+
